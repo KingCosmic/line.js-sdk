@@ -1,0 +1,21 @@
+{
+  "name": "line.js-sdk",
+  "version": "1.0.0",
+  "description": "sdk for the line api",
+  "main": "./src/index.js",
+  "author": "KingCosmic",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingCosmic/line.js-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KingCosmic/line.js-sdk/issues"
+  },
+  "homepage": "https://github.com/KingCosmic/line.js-sdk#readme",
+  "dependencies": {
+    "query-string": "^6.1.0",
+    "snekfetch": "^4.0.0"
+  }
+}
